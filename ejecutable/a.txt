@@ -1,0 +1,526 @@
+1608
+Fecha: 13/10/2017
+Hora: 19:21:12
+7182
+10
+353
+0
+24
+25
+53
+54
+65
+66
+87
+88
+104
+105
+130
+131
+163
+164
+189
+190
+231
+232
+246
+0 0 0 0 0 0 0 0 0 0 2 0 0 1 1 1 3 1 8 3 3 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 1 2 0 2 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 6 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 2 1 1 1 3 1 0 1 2 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 2 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 3 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 3 0 0 0 0 0 0 0 2 1 3 0 0 0 0 0 0 0 2 1 0 0 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 2 1 1 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 4 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 1 5 3 6 0 0 5 3 6 0 1 5 3 6 2 1 5 3 6 0 1 0 0 0 0 0 2 0 0 0 2 1 0 1 0 0 4 4 2 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 2 0 1 0 0 0 0 0 0 0 0 0 1 7 3 4 0 2 3 0 3 0 1 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 1 0 0 0 1 1 1 1 1 1 1 1 1 0 1 1 0 1 1 2 3 1 5 0 0 3 2 0 0 0 0 0 0 0 0 3 2 3 0 0 0 0 1 0 0 5 2 0 0 0 0 0 0 0 0 4 2 1 0 0 0 1 4 0 0 4 2 3 0 0 0 1 5 0 0 3 1 3 0 0 0 0 1 0 0 3 0 1 0 0 0 0 0 0 0 3 0 0 2 0 0 0 0 0 0 3 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0 0 0 0 2 0 2 0 0 2 0 0 0 0 0 0 0 0 0 2 0 1 2 2 4 7 1 0 0 2 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 2 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 1 0 0 0 0 1 1 1 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 2 0 0 1 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 1 0 0 2 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 1 0 1 0 0 1 1 0 0 0 0 0 4 0 0 3 2 2 9 1 3 7 4 6 0 1 9 7 6 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 4 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 2 0 0 0 0 1 0 0 0 0 3 1 3 0 0 0 0 0 0 0 2 0 0 2 0 3 0 0 0 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 0 0 0 1 0 0 0 0 5 0 0 0 0 1 0 0 0 0 5 0 0 0 0 1 0 1 0 2 2 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 3 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 9 0 0 0 0 0 3 2 0 0 0 0 0 0 0 0 8 4 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 2 1 1 0 0 0 0 0 0 0 3 3 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 2 2 0 0 0 0 0 0 0 0 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 3 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 3 1 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8 7 0 0 0 0 0 0 0 0 6 5 6 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 3 4 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 3 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 4 1 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 3 1 7 0 0 0 0 0 0 0 4 1 10 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 2 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 4 7 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 2 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 0 1 1 0 3 0 1 7 0 2 0 0 12 1 3 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 2 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 8 4 2 3 4 0 6 7 3 8 4 2 11 5 15 3 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 6 0 0 2 5 14 14 14 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 3 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
+1
+experimental
+investigation
+aerodynamics
+wing
+slipstream
+brenckmanm
+j
+ae
+scs
+958
+324
+study
+propeller
+order
+determine
+spanwise
+distribution
+lift
+increase
+different
+angles
+attack
+free
+stream
+velocity
+ratios
+results
+intended
+evaluation
+basis
+theoretical
+treatments
+problem
+comparative
+span
+loading
+curves
+supporting
+evidence
+showed
+substantial
+increment
+produced
+destalling
+boundary
+layer
+control
+effect
+integrated
+remaining
+subtracting
+agree
+potential
+flow
+theory
+smpirical
+specific
+configuration
+experiment
+I
+2
+simple
+shear
+past
+flat
+plate
+incompressible
+fluid
+small
+viscosity
+ting
+yili
+ronautical
+engineering
+rensselaer
+polytechnic
+institute
+troy
+ny
+high
+speed
+viscous
+dimensional
+body
+usually
+necessary
+consider
+curved
+shock
+wave
+emitting
+nose
+leading
+edge
+consequently
+exists
+inviscid
+rotational
+region
+situation
+arises
+instance
+hypersonic
+somewhat
+prandtl's
+classical
+original
+outside
+edrotational
+sossible
+vorticity
+recently
+discussed
+ferri
+libby
+present
+paper
+investigated
+shown
+treated
+approximation
+novel
+feature
+constant
+discussion
+restricted
+steady
+3
+m
+b
+glauert
+athematics
+anchestery
+england
+eduations
+pressure
+gradient
+4
+approximate
+solutions
+laminar
+equations
+955kt
+ed8
+thickness
+skin
+friction
+obtained
+karman
+pohlhausen
+technique
+comparison
+uniform
+5
+transient
+heat
+conduction
+double
+slab
+subjected
+linear
+input
+time
+957ernal
+924
+internal
+edalytic
+somposite
+exposed
+surface
+triangular
+rate
+inge
+ultilayerKr
+recent
+contribution
+readers'
+forum
+wassermann
+gave
+analytic
+temperature
+face
+insulated
+thermal
+resistance
+interface
+particular
+cases
+propose
+general
+solution
+rieflyte
+ethod
+reference
+point
+given
+sncomplete
+longer
+duration
+led
+roughness
+transition
+supersonic
+san
+wind
+etnnel
+propulsion
+laboratory
+california
+technology
+investigate
+elements
+(spheres)
+tained
+achal
+67mbers
+varying
+trip
+size
+position
+spacing
+reynolds
+number
+inch
+indicate
+(1)
+turbulent
+eginsed
+row
+spiral
+vortices
+trailing
+element
+reaksminates
+surrounding
+field
+(2)
+appears
+suddenly
+violent
+increasing
+height
+relative
+reakdown?KV
+strength
+persist
+sublayer
+ensuing
+(4)
+lateral
+little
+reakdown
+(contamination)
+(5)
+u
+v
+kinematic
+outer
+k
+ariess
+fourth
+izwer
+x
+955anoffpss
+easurements
+h
+l
+dryden
+available
+data
+wire
+represented
+reasonably
+terms
+functional
+asedtion
+distance
+displacement
+suggestion
+additional
+primarily
+extend
+alues
+course
+reauucted
+standards
+appeared
+ehaveable
+way
+956
+97
+6churements
+galcit
+tunnel
+8chinal
+seduerorescent
+entection
+eadal
+easurements
+pitot
+0urveys
+transverse
+contamination
+caused
+sidewall
+originated
+0ar
+spread
+angle
+compared
+9
+ocalee
+disturbances
+air
+asteningn
+sedensively
+onset
+0wcurred
+fully
+0eveloped
+regardless
+injected
+qualitative
+emphasis
+possibility
+greater
+swerility
+eansrements
+floating
+erified
+complete
+range
+entection
+yarlier
+alue
+r
+ive
+0
+impact
+48be
+735
+owbe
+analysis
+schtion
+densities
+swtremely
+differ
+appreciably
+corresponding
+elationsm
+I 1
+experimental investigation aerodynamics
+wing slipstream
+brenckmanm
+j ae scs 25 1958 324
+experimental investigation aerodynamics
+wing slipstream experimental study wing propeller slipstream order determine spanwise distribution lift
+increase slipstream different angles attack wing different free stream slipstream velocity ratios
+results intended evaluation basis different
+theoretical treatments problem comparative span loading curves
+supporting evidence showed substantial lift increment
+produced slipstream destalling
+boundary layer control effect integrated remaining lift
+increment subtracting destalling lift agree potential flow theory empirical evaluation destalling effects specific configuration experiment
+I 2
+simple shear flow past flat plate incompressible fluid small
+viscosity
+ting yili
+department aeronautical engineering rensselaer polytechnic
+institute
+troy ny
+simple shear flow past flat plate incompressible fluid small
+viscosity study high speed viscous flow past dimensional body usually necessary consider curved shock wave emitting
+nose leading edge body consequently exists
+inviscid rotational flow region shock wave boundary
+layer situation arises instance study
+hypersonic viscous flow past flat plate situation somewhat
+different prandtl's classical boundary layer problem prandtl's
+original problem inviscid free stream outside boundary layer
+irrotational hypersonic boundary layer problem inviscid
+free stream considered rotational possible effects
+vorticity recently discussed ferri libby
+present paper simple shear flow past flat plate fluid small
+viscosity investigated shown problem treated boundary layer approximation novel feature free stream constant vorticity discussion restricted dimensional incompressible steady flow
+I 3 boundary layer simple shear flow past flat plate
+m b glauert
+department mathematics university manchester manchester
+england boundary layer simple shear flow past flat plate boundary layer equations presented steady
+incompressible flow pressure gradient
+I 4
+approximate solutions incompressible laminar
+boundary layer equations plate shear flow
+yenkt
+j ae scs 22 1955 728
+approximate solutions incompressible laminar
+boundary layer equations plate shear flow dimensional steady boundary layer
+problem flat plate
+shear flow incompressible fluid considered
+solutions boundary
+layer thickness skin friction velocity
+distribution boundary
+layer obtained karman pohlhausen
+technique comparison boundary layer uniform flow effect
+vorticity
+I 5 dimensional transient heat conduction double layer
+slab subjected linear heat input small time
+internal
+wassermanb
+j ae scs 24 1957 924 dimensional transient heat conduction double layer
+slab subjected linear heat input small time
+internal analytic solutions presented transient heat
+conduction composite slabs exposed surface
+triangular heat rate type heating rate occur
+example aerodynamic heating
+I 6 dimensional transient heat flow multilayer
+slab
+campbellwf
+j ae scs 25 1958 340 dimensional transient heat flow multilayer
+slab recent contribution readers'
+forum wassermann gave analytic
+solutions temperature double
+layer slab triangular heat
+rate input face insulated thermal resistance interface solutions particular cases propose general solution problem indicate
+briefly obtained using method
+reference 2 point solutions given wassermann
+incomplete times longer duration heat input
+I 7 effect controlled dimensional roughness boundary layer transition supersonic speeds
+van driester mccauleywd
+j ae scs 27 1960 261 effect controlled dimensional roughness boundary layer transition supersonic speeds experiments performed 12 supersonic wind
+tunnel jet propulsion laboratory california
+institute technology investigate effect dimensional
+roughness elements (spheres) boundary layer transition
+tained local mach numbers 190 271 367 varying
+trip size position spacing reynolds number inch results indicate (1) transition laminar turbulent
+flow induced dimensional roughness elements begins double row spiral vortices trailing element
+contaminates breaks surrounding field vorticity (2)
+transition appears suddenly violent
+increasing roughness height relative boundary layer
+thickness (3) breakdown vorticity field strength spiral vortices persist sublayer
+ensuing turbulent flow (4) lateral spacing roughness elements
+little effect initial breakdown (contamination)
+laminar flow (5) trip reynolds number u v velocity kinematic viscosity outer edge boundary layer k roughness height transition
+occurs roughness position varies position reynolds
+number fourth power viz x
+trip position
+I 8
+measurements effect dimensional dimensional
+roughness elements boundary layer transition
+klebanoffps
+j ae scs 22 1955 803
+measurements effect dimensional dimensional
+roughness elements boundary layer transition study effect roughness transition h l
+dryden basis available data effect dimensional roughness element trip wire represented reasonably terms functional
+relation reynolds number transition based distance leading edge
+height roughness element boundary layer
+displacement thickness position element
+suggestion additional data obtained primarily
+extend range higher values course
+investigation transition flat plate conducted
+national bureau standards results
+dimensional roughness elements obtained appeared
+desirable row dimensional roughness
+elements behave way
+I 9
+transition studies skin friction measurements insulated flat plate mach number 58
+korkegirh
+j ae scs 23 1956 97
+transition studies skin friction measurements insulated flat plate mach number 58 investigation transition skin friction insulated
+flat plate 5 26 galcit 5 5
+hypersonic wind tunnel nominal mach number 58 phosphorescent lacquer technique used transition
+detection good agreement total head
+rake measurements plate surface pitot boundary
+layer surveys boundary layer
+laminar reynolds numbers 5 x 10 transverse
+contamination caused turbulent boundary layer
+tunnel sidewall originated far downstream flat plate leading
+edge reynolds numbers 15 2 x 10 spread
+uniform angle 5 compared 9 degree low speed flow effect dimensional local disturbances
+investigated technique air injection boundary
+layer means hastening transition extensively used onset transition occurred reynolds numbers low 10 fully developed turbulent boundary layer obtained reynolds numbers 2 x 10
+regardless air injected qualitative discussion results given emphasis possibility greater stability laminar boundary
+layer hypersonic flow lower speeds direct skin friction measurements means
+floating element technique range reynolds numbers
+verified laminar complete range air
+injection turbulent shear obtained reynolds
+numbers greater 2 x 10 value good agreement
+earlier results investigation turbulent skin friction
+coefficient approximately 040
+incompressible flow constant value r 046 effective
+reynolds number 5 6 x 10
+I 10 theory impact tube low pressure
+chambrepl schaafsa
+j ae scs 15 1948 735 theory impact tube low pressure theoretical analysis impact tube
+relation free stream mach number impact
+free stream pressures densities extremely low pressures shown results differ appreciably
+corresponding continuum relations
+ÿ
